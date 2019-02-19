@@ -1,6 +1,6 @@
 This is First Git Demo
 
-change1
+Change -->1
 
 
-change2
+change <==>2
